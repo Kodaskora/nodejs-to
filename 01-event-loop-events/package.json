@@ -1,0 +1,6 @@
+{
+  "name": "counter",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
